@@ -66,4 +66,23 @@ chmod +x *.sh
 ## Notes
 All scripts were tested on a Linux environment using WSL (Ubuntu). Screenshots and explanations are included in the project report.
 
+##  Screenshots
+
+### Git Version
+![Git](screenshots/git-version.png)
+
+### Script 1 Output
+![Script1](screenshots/script1.png)
+
+### Script 2 Output
+![Script2](screenshots/script2.png)
+
+### Script 3 Output
+![Script3](screenshots/script3.png)
+
+### Script 4 Output
+![Script4](screenshots/script4.png)
+
+### Script 5 Output
+![Script5](screenshots/script5.png)
 ---
